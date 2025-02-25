@@ -1,1 +1,18 @@
-* { background-color: rgb(90, 200, 90);}
+* { background-color: rgb(200, 200, 200);}
+
+input [type=text] {
+    accent-color: blue;
+}
+
+/*
+so we said there are 3 ways of styling 
+- internal styling
+- external styling
+- in-line styling
+
+internal styling::
+you make use of the stle tag in the head section and add your styles
+
+selectors(id, class, elements, attributes)
+
+*/
