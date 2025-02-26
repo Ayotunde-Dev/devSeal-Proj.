@@ -1,8 +1,10 @@
 * { background-color: rgb(200, 200, 200);}
 
-input [type=text] {
+input  {
     accent-color: blue;
 }
+h1 {text-align: center;
+ }
 
 /*
 so we said there are 3 ways of styling 
