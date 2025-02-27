@@ -9,3 +9,6 @@ preview: https://dev-seal-proj-git-ayotunde-de-722fb2-olusodo-ayotundes-projects
 # preview
 preview: https://dev-seal-proj-git-ayotunde-de-722fb2-olusodo-ayotundes-projects.vercel.app/
 >>>>>>> 60c7fa9efcfeadad5ec910512815a73fb51c0ac3
+#preview
+preview: dev-seal-proj.vercel.app
+
