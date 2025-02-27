@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # devproj
 A copy of the devseal website (hello@devseal.tech)
 
